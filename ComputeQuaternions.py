@@ -3,12 +3,9 @@
 
 # This code transformes a S1(t),S2(t),S3(t) time serie in a Quaternion a(t),b(t),c(t),d(t) time serie
 # This code is provided for reproducible results
-# It Concerns the submited paper at ECML 2019 Track "Applied Data Science" :
+# It Concerns a submited paper to conference on Machine Learning
 
-# "Proactive Fiber Break Detection based on  Machine Learning with a Quaternion Representation of the State of Polarization"
-# V. Lemaire(1), F. Boitier(2), J. Pesic(2), A. Bondu(1), S. Ragot(1), F. Clerot(1)
-# (1) Orange Labs, 2. av. Pierre Marzin, 22307 Lannion Cedex, France
-# (2) Nokia Bell Labs, Route de Villejust, 91620 Nozay, France
+
 
 import numpy as np
 
