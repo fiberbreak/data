@@ -1,0 +1,18 @@
+How to join files using 7-zip free tool?
+
+You can follow the steps similar to splitting the files. Do the following steps to join the files split using 7-zip:
+
+Open 7-zip tool
+
+Navigate to the folder where the split files are located (.001, .002, .003 etc)
+
+Select the file with the extension .001
+
+Right click and choose the option 'Combine files'
+
+Choose the destination folder where you want the combined file to be places. Press "OK"
+
+7-zip will combine all the files and place them in the folder you selected.
+In case of compressed files, you can use it as normal compressed files and may extract using any tools like WinZip or 7-Zip.
+
+
