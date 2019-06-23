@@ -1,10 +1,8 @@
 ﻿#/usr/local/bin/python3
 # -*- coding: utf-8 -*-
 
-# This code transformes a S1(t),S2(t),S3(t) time serie in a Quaternion a(t),b(t),c(t),d(t) time serie
-# This code is provided for reproducible results
-# It Concerns a submited paper to conference on Machine Learning
-
+# This code transforms a time series (S1(t),S2(t),S3(t)) in a quaternion time series (a(t),b(t),c(t),d(t))
+# This code is provided for sake of reproducibility, to complement a paper submitted to a conference on Machine Learning
 
 
 import numpy as np
